@@ -1,0 +1,2 @@
+-- key: key system required (JNKIE); listed as keyless on rscripts but final loader asks for a key, no true keyless script found
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5f038938f8536cbee5ed66abeaf488286d606634e08cea4ad75bf47379aa3067/download"))()
